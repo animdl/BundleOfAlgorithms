@@ -5,41 +5,41 @@ Algorithm implementations
 ## Todo
 
 ### Searches
-- Binary Search
-- Jumping Search
+- [x] Binary Search
+- [x] Jump Search
 
-- Depth First Search
-- Breadth First Search
+- [ ] Depth First Search
+- [ ] Breadth First Search
 
-- Prim Algorithm
-- Kruskal Algorithm
-- Dijkstra Algorithm
-- Bellman-Ford Algorithm
-- Floyd-Warshall Algorithm
+- [ ] Prim Algorithm
+- [ ] Kruskal Algorithm
+- [ ] Dijkstra Algorithm
+- [ ] Bellman-Ford Algorithm
+- [ ] Floyd-Warshall Algorithm
 
 ### Sorts
-- Bubble Sort
-- Insertion Sort
+- [ ] Bubble Sort
+- [ ] Insertion Sort
 
-- Merge Sort
-- Quick Sort
-- Heap Sort
-- Tim Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Heap Sort
+- [ ] Tim Sort
 
-- Bucket Sort
-- Radix Sort
-- Counting Sort
+- [ ] Bucket Sort
+- [ ] Radix Sort
+- [ ] Counting Sort
 
 ### Data Structures
-- Singly Linked List
-- Doubly Linked List
-- Queue
-- Stack
+- [ ] Singly Linked List
+- [ ] Doubly Linked List
+- [ ] Queue
+- [ ] Stack
 
-- Tree
-- Heap
-- Trie
-- Graph
+- [ ] Tree
+- [ ] Heap
+- [ ] Trie
+- [ ] Graph
 
 ### Misc Algorithms
 
