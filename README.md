@@ -18,8 +18,8 @@ Algorithm implementations
 - [ ] Floyd-Warshall Algorithm
 
 ### Sorts
-- [ ] Bubble Sort
-- [ ] Insertion Sort
+- [x] Bubble Sort
+- [x] Insertion Sort
 
 - [ ] Merge Sort
 - [ ] Quick Sort
